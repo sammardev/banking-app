@@ -1,0 +1,2 @@
+[2025-03-24 06:57:46] local.INFO: Deposit request received {"amount":12,"deposit_source":"Card"} 
+[2025-03-24 06:57:47] local.INFO: Deposit successful {"new_balance":101.9} 
